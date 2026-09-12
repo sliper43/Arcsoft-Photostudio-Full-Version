@@ -1,0 +1,1 @@
+# Arcsoft-Photostudio-Full-Version
