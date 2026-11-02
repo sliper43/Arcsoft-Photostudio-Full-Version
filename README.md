@@ -240,4 +240,4 @@ This repository serves as the official landing page for Arcsoft PhotoStudio. The
 **Get the most recent version of Arcsoft PhotoStudio today!**
 
 ---
-**Last updated:** 2026-11-01 22:38:48 UTC
+**Last updated:** 2026-11-02 02:13:04 UTC
